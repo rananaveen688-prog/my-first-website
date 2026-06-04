@@ -90,20 +90,19 @@ border-color: #221e1e;
     padding-top: 4rem;
 }
 .beautiful_content_left_merge {
-    text-align: center;
-    padding-top: 5rem;
+    padding-left: 10em;
+    width: 100%;
+    max-width: 50%;
 }
 .content_text {
-    font-weight: 700;
     padding-bottom: 2rem;
-    font-size: 2.4rem;
+    font-size: 3em;
     color: white;
 }
 .start_project_with_number {
     align-items: center;
     display: flex;
     gap: 2rem;
-    justify-content: center;
 }
 .beautiful_websites.row {
     height: 550px;
