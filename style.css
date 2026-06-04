@@ -134,7 +134,9 @@ border-color: #221e1e;
     background-image: linear-gradient(to right, #0575E6, #00F260);
 }
 .beuatiful_img iframe{
-    max-width: 100%;
+    width: 100%;
+    max-width: 74%;
+    height: 318px;
 }
 .contact_form_iframe {
     display: flex;
