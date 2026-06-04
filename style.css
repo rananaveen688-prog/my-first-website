@@ -156,10 +156,14 @@ border-color: #221e1e;
 }
 .introduce_heading {
     font-size: 1.5rem;
+    max-width: 81%;
+    width: 100%;
 }
 .line-bar {
     font-size: 1.1rem;
     color: #757575;
+    max-width: 81%;
+    width: 100%;
 }
 .introduce_content {
     color: #757575;
