@@ -37,6 +37,7 @@
 .row.wrap_nav_with_project.sticky {
     background-color: white;
     padding-top: 1rem;
+    z-index: 9999;
     display: flex;
     justify-content: center;
     align-items: center;
